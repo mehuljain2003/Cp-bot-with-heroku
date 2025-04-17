@@ -4,7 +4,7 @@ import logging
 import requests  # Assuming your script uses requests
 
 # Replace with your actual bot token
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+BOT_TOKEN = "8150437257:AAHYaDbgonl9VidabAHzGNavHrLcZcsi2Fk"
 
 # Enable logging
 logging.basicConfig(level=logging.INFO)
