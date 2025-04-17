@@ -1,0 +1,19 @@
+{
+  "name": "cpfree-telegram-bot",
+  "description": "A Telegram bot that runs Python scripts and responds to commands.",
+  "repository": "https://github.com/yourusername/cpfree-bot",
+  "keywords": ["telegram", "bot", "python", "heroku"],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Your Telegram Bot Token",
+      "required": true
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "addons": []
+}
