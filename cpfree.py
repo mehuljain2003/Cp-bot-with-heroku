@@ -7,7 +7,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Replace this with your actual bot token
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+BOT_TOKEN = "7946520115:AAEA_Zq0XI1lyZqWhxTLxjmpryDyKokp4sU"
 
 # Define what happens when /run is called
 async def run_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
