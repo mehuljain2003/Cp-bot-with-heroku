@@ -4,7 +4,7 @@
   "repository": "https://github.com/yourusername/cpfree-bot",
   "keywords": ["telegram", "bot", "python", "heroku"],
   "env": {
-    "BOT_TOKEN": {
+    "BOT_TOKEN": {8150437257:AAHYaDbgonl9VidabAHzGNavHrLcZcsi2Fk
       "description": "Your Telegram Bot Token",
       "required": true
     }
